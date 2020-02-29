@@ -1,8 +1,5 @@
 # TechcultViewTool
-
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/techcult_view_tool`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Generated HTML data for rails application
 
 ## Installation
 
@@ -21,8 +18,6 @@ Or install it yourself as:
     $ gem install techcult_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
 
 ## Development
 
